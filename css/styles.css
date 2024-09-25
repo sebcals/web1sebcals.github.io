@@ -1,0 +1,15 @@
+body {
+    /* lettertype */
+    font-family: sans-serif;
+    /* achtergrondkleur */
+    background-color: gold;
+}
+
+h1 {
+    /* onze heading een beetje groter maken */
+    font-size: 4rem;
+}
+
+.inspringing {
+    margin-left: 40px;
+}
